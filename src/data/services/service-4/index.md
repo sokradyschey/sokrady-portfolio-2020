@@ -2,5 +2,5 @@
 category: 'services'
 title: 'Memory Game'
 icon: 'bullhorn'
-description: 'Vanilla Javascript Memory Game'
 ---
+Vanilla Javascript Memory Game. Check out the [Repo here](https://github.com/sokradyschey/memory-game)

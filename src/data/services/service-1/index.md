@@ -1,6 +1,6 @@
 ---
 category: 'services'
-title: 'Pokemon Flip Card'
+title: 'Pokemon Flash Card'
 icon: 'laptop-code'
-description: 'JS Flip card game made with Vanilla Javascript.'
 ---
+JS Flash card game made with Vanilla Javascript. Check out the [Repo here](https://github.com/sokradyschey/Pokemon-Flash-Cards)

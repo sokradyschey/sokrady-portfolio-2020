@@ -4,6 +4,7 @@ import { useStaticQuery, graphql } from 'gatsby';
 import InfoBlock from 'components/ui/InfoBlock';
 import Container from 'components/ui/Container';
 import TitleSection from 'components/ui/TitleSection';
+import FormatHtml from 'components/utils/FormatHtml';
 
 import * as Styled from './styles';
 
@@ -20,6 +21,7 @@ const Services = () => {
         edges {
           node {
             id
+            html
             frontmatter {
               title
               icon
@@ -41,12 +43,17 @@ const Services = () => {
         {services.map((item) => {
           const {
             id,
+            html,
             frontmatter: { title, icon, description }
           } = item.node;
 
           return (
             <Styled.ServiceItem key={id}>
-              <InfoBlock icon={icon} title={title} content={description} />
+              <InfoBlock 
+                icon={icon} 
+                title={title} 
+                content={<FormatHtml content={html} />}
+              />
             </Styled.ServiceItem>
           );
         })}
