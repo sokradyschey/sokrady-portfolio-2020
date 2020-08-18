@@ -1,5 +1,5 @@
 ---
 category: 'skills'
 title: 'React'
-percentage: 35
+percentage: 15
 ---

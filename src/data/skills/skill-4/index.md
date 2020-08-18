@@ -1,5 +1,5 @@
 ---
 category: 'skills'
 title: 'Vue'
-percentage: 20
+percentage: 10
 ---

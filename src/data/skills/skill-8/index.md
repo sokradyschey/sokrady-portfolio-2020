@@ -1,5 +1,5 @@
 ---
 category: 'skills'
 title: 'Selenium Webdriver'
-percentage: 20
+percentage: 5
 ---

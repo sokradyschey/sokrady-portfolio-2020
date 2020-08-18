@@ -1,5 +1,5 @@
 ---
 category: 'skills'
 title: 'Photoshop'
-percentage: 10
+percentage: 5
 ---
