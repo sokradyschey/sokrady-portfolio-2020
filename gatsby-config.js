@@ -46,7 +46,7 @@ module.exports = {
         background_color: `#C2CAD1`,
         theme_color: `#ed64a6`,
         display: `minimal-ui`,
-        icon: `src/assets/images/gatsby-icon.png`
+        icon: `src/assets/images/SOK_Dark_Pink.png`
       }
     },
     `gatsby-plugin-offline`,
