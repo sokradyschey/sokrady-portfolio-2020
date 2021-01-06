@@ -1,5 +1,5 @@
 ---
 category: 'skills'
-title: 'Vue'
-percentage: 10
+title: 'PHP'
+percentage: 15
 ---

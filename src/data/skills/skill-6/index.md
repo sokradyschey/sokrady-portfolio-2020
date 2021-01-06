@@ -1,5 +1,5 @@
 ---
 category: 'skills'
 title: 'Gatsby'
-percentage: 10
+percentage: 35
 ---
