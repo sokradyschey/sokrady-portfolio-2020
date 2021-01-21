@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 
 import * as Styled from './styles';
 
-const Timeline = ({ title, subtitle, content, startDate, endDate }) => (
+const Timeline = ({ title, subtitle, minor, content, startDate, endDate }) => (
   <Styled.Timeline>
     <Styled.Point />
     <Styled.Details>
@@ -12,6 +12,7 @@ const Timeline = ({ title, subtitle, content, startDate, endDate }) => (
       </Styled.Date>
       <Styled.Title>{title}</Styled.Title>
       <Styled.Subtitle>{subtitle}</Styled.Subtitle>
+      <Styled.Minor>{minor}</Styled.Minor>
     </Styled.Details>
     <Styled.Content>{content}</Styled.Content>
   </Styled.Timeline>

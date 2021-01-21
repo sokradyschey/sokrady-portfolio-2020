@@ -6,4 +6,8 @@ startDate: 'Mar 2018'
 endDate: 'Jul 2019'
 ---
 
-I collaborated with project managers and UX designers to ensure projects are built in a timely manner and expected quality for the clients. Recently, I built a responsive website for a non-profit organization that provides support for victims of domestic violence. The site is on a custom WordPress theme, thoughtfully implementing HTML and CSS to build the foundation of the site. I included interactive features using jQuery such as searchable hotline support services and an elegant events calendar that allows registering for the event and calendar updates. I ensured the site is accurately integrated in PHP and cross-browser tested. With the help of project managers clarifying timelines and other engineers for QA, I managed to accurately and efficiently build the project as depicted from the designs and launched without delays.
+• Built over 15+ custom WordPress websites for clients in various industries such as: Pharmaceuticals, E-commerce, and non-profit using HTML, CSS, JavaScript, PHP, and Foundation </br>
+• Took point on writing and organizing Confluence documents on Quality Assurance Testing Process </br>
+• Identified roadblocks and provided efficient solutions to fulfill goals within a pre-determined timeline </br>
+• Participated in cross-functional collaboration among Project Managers, Project Owners, and Team Leads regarding scope creep, new features, and release cycles
+

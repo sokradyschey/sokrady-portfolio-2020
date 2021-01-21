@@ -1,8 +1,11 @@
 ---
 category: 'experiences'
 company: 'STRATIS IoT'
-position: 'QA Software Engineer'
+position: 'Software and QA Engineer'
 startDate: 'Jul 2019'
-endDate: 'Current'
+endDate: 'Nov 2020'
 ---
-As the QA Software Engineer I help the Engineering teams stay focused on product scheduling, testing new features, and find bugs in the products. I focus on manual testing while gradually implementing automated testing for future features. Within the first 3 months of starting at STRATIS IoT, I reported over 100 bugs that involved suggestions for the User’s Experience flow and product implementation overall. My attention to detail has helped the Engineering team stay focused on implementing features and fixing the bugs that can potentially harm important pieces of STRATIS’ products.
+• Worked with engineering team to develop efficient practices, understand timelines, identify bottlenecks, and prioritize bugs </br>
+• Took point on writing and organizing Confluence documents on Quality Assurance Testing Process </br>
+• Identified roadblocks and provided efficient solutions to fulfill goals within a pre-determined timeline</br>
+• Participated in cross-functional collaboration among Project Managers, Project Owners, and Team Leads regarding scope creep, new features, and release cycles
